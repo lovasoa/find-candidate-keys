@@ -1,0 +1,27 @@
+{
+  "name": "candidate-keys",
+  "version": "1.0.0",
+  "description": "Finds the candidate keys from a list of functionnal dependencies.",
+  "main": "find-candidate-keys.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lovasoa/find-candidate-keys.git"
+  },
+  "keywords": [
+    "candidate",
+    "key",
+    "relational",
+    "algebra",
+    "normal",
+    "form"
+  ],
+  "author": "Ophir LOJKINE",
+  "license": "GPLv2",
+  "bugs": {
+    "url": "https://github.com/lovasoa/find-candidate-keys/issues"
+  },
+  "homepage": "https://github.com/lovasoa/find-candidate-keys"
+}
