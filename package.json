@@ -2,7 +2,7 @@
   "name": "candidate-keys",
   "version": "1.0.0",
   "description": "Finds the candidate keys from a list of functionnal dependencies.",
-  "main": "find-candidate-keys.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
