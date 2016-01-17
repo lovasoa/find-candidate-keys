@@ -1,6 +1,6 @@
 {
   "name": "candidate-keys",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Finds the candidate keys from a list of functionnal dependencies.",
   "main": "index.js",
   "scripts": {
