@@ -21,3 +21,5 @@ function candidate_keys(rel, fundeps) {
     , []);
   return minimized.length === 0 ? [rel] : minimized;
 }
+
+if (typeof exports === "object") exports.candidate_keys = candidate_keys;
