@@ -18,3 +18,11 @@ candidate_keys(rel, fundeps);
 ]
 */
 ```
+
+## npm module
+### Install
+`npm install candidate-keys`
+### Usage
+```javascript
+var find_candidate_keys = require("candidate-keys").candidate_keys;
+```
